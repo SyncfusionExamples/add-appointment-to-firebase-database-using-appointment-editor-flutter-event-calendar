@@ -1,3 +1,4 @@
+// @dart=2.9
 library event_calendar;
 
 import 'dart:math';
