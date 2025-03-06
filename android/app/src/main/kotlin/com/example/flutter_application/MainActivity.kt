@@ -1,4 +1,4 @@
-package com.example.flutter_firebase_calendar
+package com.example.flutter_application
 
 import io.flutter.embedding.android.FlutterActivity
 
